@@ -1,2 +1,1 @@
-
-Portfolio Project: JavaScript Syntax
+# Portfolio Project: JavaScript Syntax
